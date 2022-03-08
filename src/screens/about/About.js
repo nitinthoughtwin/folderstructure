@@ -1,5 +1,9 @@
 import React from 'react';
+import { NavArea } from '../../layout';
 
 export const About = () =>{
-    return <>About</>
+    return <>
+     <NavArea/>
+    About
+    </>
 }

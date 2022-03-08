@@ -1,7 +1,10 @@
 import React from 'react';
+import { NavArea } from '../../layout';
 
 export const Signup = () =>{
     return (
-        <>Sign up</>
+        <>
+        <NavArea/>
+        Sign up</>
     )
 }
